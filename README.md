@@ -42,6 +42,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Technology partners](https://www.snowflake.com/partners/technology-partners/)
 
 ## Data Modeling
+- [Candor Data Platform](https://candorsys.com) - AI-powered data engineering platform for automating ETL workflows and data warehouse pipelines with validation and Python execution. (Commercial Software)
 
 ### Data Vault
 
